@@ -1,0 +1,23 @@
+{
+  "name": "simpleclog",
+  "version": "0.2.0",
+  "description": "Small utility function for logging value to the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elderbas/simpleclog.git"
+  },
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "author": "Brian Schermerhorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elderbas/simpleclog/issues"
+  },
+  "homepage": "https://github.com/elderbas/simpleclog"
+}
