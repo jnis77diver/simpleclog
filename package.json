@@ -1,6 +1,6 @@
 {
   "name": "simpleclog",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Small utility function for logging value to the console",
   "main": "index.js",
   "scripts": {
