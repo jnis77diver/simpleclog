@@ -4,7 +4,7 @@ Lightweight utility function for logging to console
 
 ## Installation
 
-  npm install simpleclog --save
+  npm install --save simpleclog 
 
 
 ## Usage
