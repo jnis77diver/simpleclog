@@ -15,6 +15,7 @@ clog("Hello world!") //Logs ""Hello world!"" to the console
 or
 
 var whateverIWant = require('simpleclog');
+
 whateverIWant("Hello world!"); //Logs ""Hello world!"" to the console
 
 ## Contributing
