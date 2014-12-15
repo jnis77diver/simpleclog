@@ -2,9 +2,11 @@ simpleclog
 ====
 Lightweight utility function for logging to console
 
+"When in doubt, clog it out!"
+
 ## Installation
 
-  npm install --save simpleclog 
+  npm install --save simpleclog
 
 
 ## Usage
