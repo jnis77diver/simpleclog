@@ -6,23 +6,23 @@ Lightweight utility function for logging to console
 
 ## Installation
 
-  npm install --save simpleclog
+  `npm install --save simpleclog`
 
 
 ## Usage
-  var clog = require('simpleclog');
+  `var clog = require('simpleclog');`
 
-clog("Hello world!") //Logs ""Hello world!"" to the console
+`clog("Hello world!") // Logs "Hello world!" to the console`
 
 or
 
-var whateverIWant = require('simpleclog');
+`var whateverIWant = require('simpleclog');`
 
-whateverIWant("Hello world!"); //Logs ""Hello world!"" to the console
+`whateverIWant("Hello world!"); // Logs "Hello world!" to the console`
 
 ## Contributing
   
-  In lieu of a formal styleguide, take care to maintain the existing coding style.
+  In lieu of a formal style guide, take care to maintain the existing coding style.
 
 
 ## Release History
